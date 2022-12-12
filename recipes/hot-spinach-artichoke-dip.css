@@ -1,0 +1,38 @@
+#title {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#main-image {
+    height: auto;
+    width: 700px;
+}
+
+.subtitle {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(165, 75, 75);
+}
+
+.description-one {
+    background-color: lightyellow;
+}
+
+.description-two {
+    background-color: bisque;
+}
+
+.list-items {
+    font-size: 18px;
+    font-weight: 600;
+    background-color:rgb(41, 185, 125);
+    color: rgb(23, 72, 177);
+}
+
+.sublist-header {
+    background-color: rgb(128, 189, 163);
+}
+
+.sublist-items {
+    background-color: rgb(97, 182, 147);
+}

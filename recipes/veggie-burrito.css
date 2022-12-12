@@ -1,0 +1,45 @@
+#title {
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: lightcoral;
+}
+
+#main-image {
+    height: auto;
+    width: 700px;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightcyan;
+}
+
+.description {
+    background-color: lightcoral;
+    font-size: 18px;
+}
+
+.list-items {
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightsalmon;
+    color: white;
+}
+
+.sublist-header {
+    font-size: 18px;
+    background-color: lightblue;
+}
+
+.sublist-items {
+    background-color: rgb(194, 72, 72);
+}
+
+.subberlist-items {
+    background-color: rgb(192, 108, 108);
+}
+
+#fancy {
+    background-color: brown;
+    font-weight: 700;
+}
